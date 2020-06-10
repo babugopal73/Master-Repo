@@ -1,0 +1,53 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarys3account",
+    "class_version": 2,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "bg-aws-connect"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessKeyId": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "+67kzhp6EdrxIWoWSnJCAw==",
+                "sym_key": "gJaPYAInojvG3ON/rOsxftAwcR7Tq1kI+o9/6D2tBe+dN7FtHXvUgWXlZzROX47m3mRkDQSDUCIY5wSbiiekpUCD3RQcJoebqepxFQvbwKDfy7/raTxtb4QKoqZvr8eU6IxadD+hAlqu5sGuG4DxFqSN1G93N+62+uoxdUOIB/yvRABX5muyzE8KyVskE6NFTl8idW6UyoCswmRBe0BB/+16brjPFCbut3SEE3tkBM6pYmKGBnPmczV2LJgAL7v7ggq78zf1Jc/SdvJXXo9syzXyHevJrk9AOle4DprW51vtthPC4/PJZTSVpxt7QkEr/mg6LbV05p6jP4RSAwDyFg==",
+                "value": "dbRETJM2ExuPni+qbiRmJsZ2Di0nwIwijePURoBwV7w="
+            },
+            "encryptType": {
+                "value": "Client-Side KMS Encryption"
+            },
+            "iamRole": {
+                "value": false
+            },
+            "kmsKey": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "ggpuTGjT+bF5hxhleiuZcA==",
+                "sym_key": "t5b1IcPIgin9mDy62UN3TD0bhuate9yZzb3HiRXinuw6gLneG4rxGH54QyBAyxwU+d0qQTW4pc7s3KbaCQWH8p31lAt+2ByE1nmDFcn4EJRfLVGNp1/Mq3muaWqcLSxf5h7/EYivm/gMQxhd4HV8eBzEXFrjGRvPOrORoMjDVYcWm545w+f4yl/+/Vm3ShH0P4zrV5cw1US5OyBTuF+jUfE3UUzeTQTw6rgQ2Y/Du4TGaVMg6UtsMKupXYnMGeJBUkR9yfx5BiOr4cDJtjqEWkhteWkwKAlNHSX18mz5fdcJFxVLvnwZ4NFQMXeSvb2cWgV+Z2RzlAskFZ3hft1bHA==",
+                "value": "9KCy37yaRaWlwgkruOfjshJYxKllujyUoKdpbl3oovQYpe4LXPetFh1KI7UXdIAn"
+            },
+            "kmsRegion": {
+                "value": "us-east-1"
+            },
+            "secretKey": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "PuHNuD3V0JAX5OxHbGvUzQ==",
+                "sym_key": "YRlTvrMQfcC/qw8MKVlNSYyhFZdcCQ5hT2Ld826VrM/9U8yrNG+pAaTuLDr7nqEPR7YD+v3rZLsth/rUzxIH2hP+Mgy3+t8u9DSpmy8TqO1zsJlGgUkCn1yjhhYr1lMfFI5sK3B/ryrJCvChWRzu0k1ggJ2i6FdyKgntGYshtlV2sawK065FcoR2MJmWMuHcdgTx3pk4z24v32fPUx6cri6nrDwPOSkAO1tLQkYll88im4LPtQ0l0HDAB5yLLU3gHu/Wnk6yWZuzof4/x+LPnmp15PavZPCSn7HYJqS8+cF+jX1VWm7pVUdj2ICHlwBZhhJ4DlZGG29L2MBPgraEhw==",
+                "value": "6Lb82XteTwpCCnMX38DgooHv/Tvqa8OZi0GfuLZm6o5FrAb1QlJdDUc2PPsBGvNA"
+            },
+            "serverSideEncryption": {
+                "value": false
+            }
+        },
+        "view_serial": 100
+    }
+}
